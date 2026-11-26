@@ -1,0 +1,3 @@
+git añade codemagic.yaml
+git commit -m 'Añadir primer flujo de trabajo'
+git push
