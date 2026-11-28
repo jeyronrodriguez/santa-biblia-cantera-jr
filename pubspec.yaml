@@ -1,4 +1,5 @@
-santa_biblia_cantera_jr
+name: santa_biblia_cantera_jr
+
 flutter:
   uses-material-design: true
 
