@@ -1,5 +1,6 @@
 name: santa_biblia_cantera_jr
-
+environment:
+  sdk: '^3.14.0'
 flutter:
   uses-material-design: true
 
